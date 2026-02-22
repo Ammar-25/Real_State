@@ -23,7 +23,7 @@
     <ProjectGuid>{0F438C7F-3DF5-090A-87C9-F523B5CF9BB5}</ProjectGuid>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
-    <RootNamespace>LoginPage</RootNamespace>
+    <RootNamespace>Real State</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
